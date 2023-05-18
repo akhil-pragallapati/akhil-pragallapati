@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akhil-pragallapati
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning front end development
+- 🌱 I’m currently learning front end development, and a Masters student at State University of New York at Binghamton
 - 💞️ I’m looking to collaborate on any webpage development
 - 📫 How to reach me, connect to my ID akhil-pragallapati
 
